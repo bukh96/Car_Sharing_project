@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Collectors.toList()
+  - text: Collectors.toHashtable()
+  - text: Collectors.toSet()
+  - text: Collectors.toConcurrentQueue()
+  - text: Collectors.toConcurrentMap()
+  - text: Collectors.toCollection()
+  - text: Collectors.toArrayList()
+  - text: Collectors.toMap()
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2455#comment
+status: Solved
+record: -1
+local_check: false

@@ -1,0 +1,9 @@
+content:
+  - Lambda expressions
+  - Method references
+  - Functional interfaces
+  - Standard functional interfaces
+  - Optional
+  - Functional data processing with streams
+  - Reduction methods
+  - Collectors

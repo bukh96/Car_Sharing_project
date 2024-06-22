@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: NullPointerException
+  - text: all possible exceptions
+  - text: RuntimeException
+  - text: IllegalArgumentException
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9701#comment
+status: Solved
+record: -1
+local_check: false

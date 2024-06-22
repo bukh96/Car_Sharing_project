@@ -1,0 +1,49 @@
+type: table
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2385#comment
+status: Solved
+record: -1
+rows:
+  - distinct
+  - anyMatch
+  - filter
+  - limit
+  - map
+  - collect
+  - max
+  - skip
+  - average (LongStream)
+  - reduce
+  - sorted
+  - count
+columns:
+  - Intermediate
+  - Terminal
+selected:
+  - - false
+    - false
+  - - false
+    - false
+  - - false
+    - false
+  - - false
+    - false
+  - - false
+    - false
+  - - false
+    - false
+  - - false
+    - false
+  - - false
+    - false
+  - - false
+    - false
+  - - false
+    - false
+  - - false
+    - false
+  - - false
+    - false

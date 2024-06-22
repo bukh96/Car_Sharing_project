@@ -1,0 +1,7 @@
+2024-06-20 13:56:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "COMPANY" уже существует
+Table "COMPANY" already exists; SQL statement:
+CREATE TABLE   COMPANY (id INTEGER not NULL,  name VARCHAR ) [42101-200]
+2024-06-20 13:57:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COMPANY" already exists; SQL statement:
+CREATE TABLE   COMPANY (id INTEGER not NULL,  name VARCHAR ) [42101-200]
