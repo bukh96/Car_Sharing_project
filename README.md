@@ -1,8 +1,10 @@
 
 #  Car Sharing Project
 
-This is a Java-based project simulating a simple car-sharing application. It was developed as a graduation project for an online course, where only task descriptions were provided — all logic, architecture, and implementation were done by me.
+This is a Java-based project simulating a simple car-sharing application. It was developed as a graduation project for an online Hyperskill course, where only task descriptions were provided — all logic, architecture, and implementation were done by me.
+More https://hyperskill.org/projects/140
 
+And my Tab https://hyperskill.org/my-learning/533271842?id=140#projects-tab
 The project uses Gradle, JDBC, and an embedded RDB database to demonstrate key concepts such as object-relational mapping, entity relationships, and basic CRUD operations. It is built in a modular, task-based structure for clarity and testability.
 
 ---
